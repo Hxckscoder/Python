@@ -1,5 +1,4 @@
 # Boolean_Script
-
 ---
 
 ### **In Python, a boolean is a data type that represents one of two values: “True” or “False”.  Booleans are used for logical operations, decision-making, and control flow in a program. Here’s an explanation of how booleans work in Python along with code examples:**
